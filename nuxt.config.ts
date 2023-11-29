@@ -3,6 +3,5 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: "/fl3y.github.io/",
-    buildAssetsDir: "assets",
   },
 });
